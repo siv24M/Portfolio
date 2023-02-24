@@ -22,7 +22,7 @@
 <body>
 <div id = "main">
 <nav>
-      <a class = "logolink" href ="#" ><img class = "logo" src = "Sivasankarisharplogo.png" alt = "Sivasankari" /></a>
+      <a class = "logolink" href ="#" ><img class = "logo" src = "/images/icons/Sivasankarisharplogo.png" alt = "Sivasankari" /></a>
       <ul class="navigation">
         <li><a href="#about" class="nav-link">ABOUT</a></li>
         <li><a href="#skills" class="nav-link">SKILLS</a></li>
@@ -76,19 +76,19 @@
       <div class="skills-wrapper">
         <div class="first-set animate__animated animate__pulse">
           <img
-            src="html5.png"
+            src="/images/icons/html5.png"
             alt=""
             loading="lazy"
             class="icon icon-card"
           />
           <img
-            src="css3.png"
+            src="/images/icons/css3.png"
             alt=""
             loading="lazy"
             class="icon icon-card"
           />
           <img
-            src="javascript.png"
+            src="/images/icons/javascript.png"
             alt=""
             loading="lazy"
             class="icon icon-card"
@@ -97,19 +97,19 @@
 
         <div class="second-set animate__animated animate__pulse">
           <img
-            src="php.png"
+            src="/images/icons/php.png"
             alt=""
             loading="lazy"
             class="icon icon-card"
           />
           <img
-            src="mysql.png"
+            src="/images/icons/mysql.png"
             alt=""
             loading="lazy"
             class="icon icon-card"
           />
           <img
-            src="wordpress.png"
+            src="/images/icons/wordpress.png"
             alt=""
             loading="lazy"
             class="icon icon-card"

@@ -140,7 +140,7 @@ nav {
 #main {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url(greylaptop.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url(/images/greylaptop.jpg);
     background-size: cover;
     background-position: center;
     padding: 0%;
@@ -199,7 +199,7 @@ nav {
   
   .more-about{
     /* background-color: #424446; */
-    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url(darkgreybg.png);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url(/images/lightgrey.png);
     display: flex;
     position: absolute;
     padding: 30px 130px;
